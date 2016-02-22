@@ -172,7 +172,8 @@ a:hover {
 	.gutter > .col {
 		margin-left:2%;
 	}
-	.gutter > .col:first-child {
+	.gutter > .col:first-child,
+	.gutter > .col.s12 {
 		margin-left:0;
 	}
 	
